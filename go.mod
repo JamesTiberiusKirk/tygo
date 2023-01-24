@@ -1,8 +1,9 @@
-module github.com/gzuidhof/tygo
+module github.com/JamesTiberiusKirk/tygo
 
 go 1.18
 
 require (
+	github.com/gzuidhof/tygo v0.2.4
 	github.com/spf13/cobra v1.3.0
 	gopkg.in/yaml.v2 v2.4.0
 )
