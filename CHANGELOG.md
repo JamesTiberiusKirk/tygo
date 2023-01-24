@@ -1,3 +1,6 @@
+# 0.2.5 (Fork)
+* Add support for `include_struct_comment`, which allows one to specify a specific include comment which would only include the struct it is commented on
+
 # 0.2.4
 * Add support for `fallback_type`, which allows one to specify the type that should be used for unknown types (defaults to `any`).
 
